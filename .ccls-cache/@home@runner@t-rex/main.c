@@ -5,5 +5,7 @@ void summ (int a, int b) {
 int main(void) {
   printf ("я пишу на русском на ");
   summ (2, 3);
+  printf ("вот они слева направо: Намджун, Чонгук, Чингачкук, Гойко Митиич, Джин, Юнги");
+  printf ("aboba biba boba buba huba");
   return 0;
 }
