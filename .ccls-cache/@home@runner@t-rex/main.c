@@ -1,9 +1,9 @@
 #include <stdio.h>
-
+void summ (int a, int b) {
+  printf ("%d", a + b);
+}
 int main(void) {
-  printf("Hello World\n");
-  printf ("I am t-rex");
-  printf ("how work github?");
-  printf ("123");
+  printf ("я пишу на русском на ");
+  summ (2, 3);
   return 0;
 }
